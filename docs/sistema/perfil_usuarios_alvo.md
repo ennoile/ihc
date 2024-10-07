@@ -1,4 +1,4 @@
-# Perfil dos Usuários-Alvo:
+# 2.2 Perfil dos Usuários-Alvo:
 
 1. Usuários: Consumidores
 + Faixa Etária: Variedade, principalmente jovens entre 18-35 anos
