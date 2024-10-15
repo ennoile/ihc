@@ -1,4 +1,4 @@
-# 2.1 Domínio e objetivo do sistema:
+# Domínio e objetivo do sistema:
 
 + Domínio: E- commerce 
 + Plataforma: Shopee

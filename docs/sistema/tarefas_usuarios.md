@@ -1,6 +1,6 @@
-# 2.3 Objetivos e Tarefas dos Usuários: 
+# Objetivos e Tarefas dos Usuários: 
 
-### 2.3.1 Compradores:
+### Compradores:
 
 Objetivo: Comprar e encontrar produtos de forma rápida e fácil, com uma experiência segura e agradável.
 - Tarefas:
@@ -9,7 +9,7 @@ Objetivo: Comprar e encontrar produtos de forma rápida e fácil, com uma experi
   - Finalizar compras de forma segura através de diferentes métodos de pagamento(pix,cartão de crédito, boleto bancário, shopeepay);
   - Avaliar os produtos e serviços após a compra.
  
-### 2.3.2 Vendedores:
+### Vendedores:
  
 ​Objetivo: Aumentar as vendas e gerenciar sua loja de forma eficiente, melhorando a satisfação do cliente.
 - Tarefas:
