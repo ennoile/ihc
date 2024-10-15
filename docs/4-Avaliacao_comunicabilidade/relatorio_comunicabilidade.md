@@ -83,3 +83,4 @@
 ## Referências
 
 - FORTUNATO, C. Conheça o Método de Avaliação da Comunicabilidade (MAC). Disponível em: <https://medium.com/caiquefortunato/conhe%C3%A7a-o-m%C3%A9todo-de-avalia%C3%A7%C3%A3o-da-comunicabilidade-mac-9e709f8f1789>. Acesso em: 15 out. 2024.
+- Modelos de Trabalhos
