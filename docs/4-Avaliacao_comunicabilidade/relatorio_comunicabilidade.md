@@ -2,11 +2,13 @@
 
 ## Como funciona:
 
+<p style="text-align: justify;">
 - O principal objetivo do MAC é que o avaliador observe a interação do usuário com um sistema em um ambiente controlado onde possa identificar rupturas de comunicação vivenciadas durante o teste (quando o usuário não é capaz de entender a comunicação pretendida pelo designer dificultando assim a metacomunicação ou uso do sistema). Com base no resultado é feita uma apreciação da comunicabilidade.
 - Assim, o usuário executa tarefas previstas pelo avaliador onde a interação é gravada para posterior análise onde o avaliador identificará rupturas de comunicação, podendo associa-las a “expressões naturais”. A partir das rupturas identificadas o avaliador deverá analisar os problemas de comunicação identificados e fazer a reconstrução da meta mensagem apontando os seus problemas.
 
 ## Planejamento
 
+<p style="text-align: justify;">
 - Levando em consideração a forma como os testes poderiam ser aplicados, a avaliação foi realizada em locais destinados a pesquisa, devido a variedade dos perfis solicitados, mais de um local foi usado para tal finalidade. Foi utilizado um aparelho celular, fornecido pelo avaliador, para capturar por meio de gravação de tela a navegação dos usuários e os movimentos dos toques na tela pelo sistema. Todos os participantes concordaram e assinaram um termo de consentimento, que especificava o propósito do teste e garantia que suas informações não seriam compartilhadas com terceiros. Foi aplicada uma entrevista pré-teste, e pós -teste, para identificar uma opinião geral sobre o aplicativo E-commerce “Shopee”. A análise foi realizada com a colaboração de 4 usuários que correspondiam ao perfil elaborado. As atividades efetuadas foram as seguintes:
 
 ## TCLE (Termo de Consetimento Livre e Esclarecido) dos usuários
@@ -14,8 +16,9 @@
 
 ## Roteiro de Atividades
 
+<p style="text-align: justify;">
 1. Você é um usuário comum e deseja realizar uma compra pelo aplicativo “Shopee”. Inicialmente o avaliador pede que você pesquise um produto específico “mesa para computador”, e selecione a opção filtro e defina as seguintes especificações: faixa de preço entre R$ 100,00 e R$ 300,00 reais e avaliação 5 estrelas, por fim escolher a mercadoria e adicionar o produto ao carrinho de compras.
-
+<p style="text-align: justify;">
 2. Finalizando é requerido a efetuação da compra, onde os usuários devem achar o carrinho para concluírem a ação, selecionarem os produtos desejados, e aplicarem o cupom “frete grátis”, além de selecionarem o pagamento via pix, assim terminando o teste de comunicabilidade.
 
 ## Perfis dos Usuários
@@ -30,6 +33,7 @@
 
 ## Execução
 
+<p style="text-align: justify;">
 - O teste foi efetuado de forma eficiente pelo avaliador, que realizou entrevistas pré-teste e pós-teste, com cada participante de forma individual. Sob esse viés, na entrevista pré-teste, foi filtrado a faixa de idade dos usuários entre 18 e 40 anos, sendo todos adultos, e dois desses quatro participantes jovens-adultos, dito isto, todos os participantes afirmaram já conhecer o aplicativo de compras online Shopee, porém nem todos tiveram a oportunidade de realizar uma compra nesse sistema antes. Para a entrevista pós-teste, foi alcançado os seguintes resultados: 75% dos participantes sentiram muitas dificuldades em realizar praticamente todas as tarefas, por não estarem familiarizados com o sistema, levando em consideração que as tarefas exigidas eram de nível relativamente mediano. Foi mencionado sobre a interface gráfica ser bastante desregulada, o que prejudica a navegação dos usuários. Como sugestão foram relatadas: “O campo de interação poderia ser mais limpo visualmente”; “Os botões importantes deveriam ter um tamanho maior ou uma identificação diferente para a fácil localização”; “As informações devem ser mais claras e fáceis de interpretar, para que qualquer usuário possa usufruir do sistema”.
 
 ## Resultados
@@ -83,3 +87,5 @@
 ## Referências
 
 - FORTUNATO, C. Conheça o Método de Avaliação da Comunicabilidade (MAC). Disponível em: <https://medium.com/caiquefortunato/conhe%C3%A7a-o-m%C3%A9todo-de-avalia%C3%A7%C3%A3o-da-comunicabilidade-mac-9e709f8f1789>. Acesso em: 15 out. 2024.
+
+</p>
