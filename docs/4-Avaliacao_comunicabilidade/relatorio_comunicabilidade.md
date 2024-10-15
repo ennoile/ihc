@@ -33,6 +33,7 @@
 
 ## Execução
 <p style="text-align: justify;">
+
 - O teste foi efetuado de forma eficiente pelo avaliador, que realizou entrevistas pré-teste e pós-teste, com cada participante de forma individual. Sob esse viés, na entrevista pré-teste, foi filtrado a faixa de idade dos usuários entre 18 e 40 anos, sendo todos adultos, e dois desses quatro participantes jovens-adultos, dito isto, todos os participantes afirmaram já conhecer o aplicativo de compras online Shopee, porém nem todos tiveram a oportunidade de realizar uma compra nesse sistema antes. Para a entrevista pós-teste, foi alcançado os seguintes resultados: 75% dos participantes sentiram muitas dificuldades em realizar praticamente todas as tarefas, por não estarem familiarizados com o sistema, levando em consideração que as tarefas exigidas eram de nível relativamente mediano. Foi mencionado sobre a interface gráfica ser bastante desregulada, o que prejudica a navegação dos usuários. Como sugestão foram relatadas: “O campo de interação poderia ser mais limpo visualmente”; “Os botões importantes deveriam ter um tamanho maior ou uma identificação diferente para a fácil localização”; “As informações devem ser mais claras e fáceis de interpretar, para que qualquer usuário possa usufruir do sistema”.
 
 ## Resultados
