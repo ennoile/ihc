@@ -1,8 +1,16 @@
 # Método de Avaliação de Comunicabilidade (MAC)
 
+## Como funciona:
+
+- O principal objetivo do MAC é que o avaliador observe a interação do usuário com um sistema em um ambiente controlado onde possa identificar rupturas de comunicação vivenciadas durante o teste (quando o usuário não é capaz de entender a comunicação pretendida pelo designer dificultando assim a metacomunicação ou uso do sistema). Com base no resultado é feita uma apreciação da comunicabilidade.
+- Assim, o usuário executa tarefas previstas pelo avaliador onde a interação é gravada para posterior análise onde o avaliador identificará rupturas de comunicação, podendo associa-las a “expressões naturais”. A partir das rupturas identificadas o avaliador deverá analisar os problemas de comunicação identificados e fazer a reconstrução da meta mensagem apontando os seus problemas.
+
 ## Planejamento
 
 - Levando em consideração a forma como os testes poderiam ser aplicados, a avaliação foi realizada em locais destinados a pesquisa, devido a variedade dos perfis solicitados, mais de um local foi usado para tal finalidade. Foi utilizado um aparelho celular, fornecido pelo avaliador, para capturar por meio de gravação de tela a navegação dos usuários e os movimentos dos toques na tela pelo sistema. Todos os participantes concordaram e assinaram um termo de consentimento, que especificava o propósito do teste e garantia que suas informações não seriam compartilhadas com terceiros. Foi aplicada uma entrevista pré-teste, e pós -teste, para identificar uma opinião geral sobre o aplicativo E-commerce “Shopee”. A análise foi realizada com a colaboração de 4 usuários que correspondiam ao perfil elaborado. As atividades efetuadas foram as seguintes:
+
+## TCLE (Termo de Consetimento Livre e Esclarecido) dos usuários
+-
 
 ## Roteiro de Atividades
 
@@ -71,3 +79,7 @@
 | "Não, obrigado | 1 | Aplicar cupom “Frete Grátis”. |
 | "Epa! | 1 | Selecionar o produto e adicionar no carrinho. |
 | "Epa!" | 1 | Achar a opção “Filtro”. |
+
+## Referências
+
+- FORTUNATO, C. Conheça o Método de Avaliação da Comunicabilidade (MAC). Disponível em: <https://medium.com/caiquefortunato/conhe%C3%A7a-o-m%C3%A9todo-de-avalia%C3%A7%C3%A3o-da-comunicabilidade-mac-9e709f8f1789>. Acesso em: 15 out. 2024.
