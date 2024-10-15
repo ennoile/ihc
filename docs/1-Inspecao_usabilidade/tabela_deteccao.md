@@ -20,3 +20,39 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 |  2 |                       |                      |            |               |
 |  3 |                       |                      |            |               |
 |  4 |                       |                      |            |               |
+
+### Inspetor : A3
+
+| ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
+|----|-----------------------|----------------------|------------|---------------|
+|  1 |                       |                      |            |               |
+|  2 |                       |                      |            |               |
+|  3 |                       |                      |            |               |
+|  4 |                       |                      |            |               |
+
+### Inspetor : A4
+
+| ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
+|----|-----------------------|----------------------|------------|---------------|
+|  1 |                       |                      |            |               |
+|  2 |                       |                      |            |               |
+|  3 |                       |                      |            |               |
+|  4 |                       |                      |            |               |
+
+### Inspetor : A5
+
+| ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
+|----|-----------------------|----------------------|------------|---------------|
+|  1 |                       |                      |            |               |
+|  2 |                       |                      |            |               |
+|  3 |                       |                      |            |               |
+|  4 |                       |                      |            |               |
+
+### Inspetor : A6
+
+| ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
+|----|-----------------------|----------------------|------------|---------------|
+|  1 |                       |                      |            |               |
+|  2 |                       |                      |            |               |
+|  3 |                       |                      |            |               |
+|  4 |                       |                      |            |               |
