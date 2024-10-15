@@ -28,7 +28,7 @@
 
 ### 6.5.1 Tabelas demonstrando o resultado de realização para cada tarefa
 
-- Tarefa 1
+- Tarefa 1 : Achar a barra de pesquisa e buscar pelo produto "mesa para computador.
 
 | Participante | Resultado |
 |-----|-----------------------|
@@ -37,7 +37,7 @@
 |  P3 | Conseguiu |
 |  P4 | Conseguiu  |
 
-- Tarefa 2
+- Tarefa 2 : Ir na opção "Filtro" e : Filtrar a faixa de  preço entre 100 e 200 reais; Selecionar avaliação 5 estrelas; Selecionar o produto  e Adiconar ao carrinho.
 
 | Participante | Resultado |
 |-----|-----------------------|
@@ -46,7 +46,7 @@
 |  P3 | Conseguiu |
 |  P4 | Conseguiu com pouco de dificuldade  |
 
-- Tarefa 3
+- Tarefa 3 : Achar o carrinho para finalizar a compra, e selecionar : O produto desejado; Aplicar cupom "Frete Grátis"; Método de pagamento "Pix" e Finalizar a compra.
 
 | Participante | Resultado |
 |-----|-----------------------|
@@ -66,3 +66,8 @@
 | “Pra mim está bom...” | 1 | Filtrar a faixa de preço e marcar a avaliação do produto. |
 | "Pra mim está bom..." | 2 | Selecionar a forma de pagamento e finalizar a compra. |
 | "Onde estou? | 1 | Achar a barra de pesquisa e buscar pelo produto. |
+| "Vai de outro jeito" | 1 | Achar o carrinho de compras |
+| "Vai de outro jeito" | 1 | Selecionar o produto e adicionar no carrinho. |
+| "Não, obrigado | 1 | Aplicar cupom “Frete Grátis”. |
+| "Epa! | 1 | Selecionar o produto e adicionar no carrinho. |
+| "Epa!" | 1 | Achar a opção “Filtro”. |
