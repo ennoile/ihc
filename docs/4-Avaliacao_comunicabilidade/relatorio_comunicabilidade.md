@@ -14,8 +14,7 @@
 
 [Usuário 2](https://github.com/ennoile/ihc/blob/42337355319fb8c270675935cd5af00e3553b798/docs/4-Avaliacao_comunicabilidade/TCLE%20_comunicabilidade/Usu%C3%A1rio%202.jpg)
 
-[Usuário 3](https://github.com/ennoile/ihc/blob/75bacb7cab60daa680793bb89f6715253f46d7c7/docs/4-Avaliacao_comunicabilidade/TCLE%20_comunicabilidade/Usu%C3%A1rio%203.jpg
-)
+[Usuário 3](https://github.com/ennoile/ihc/blob/75bacb7cab60daa680793bb89f6715253f46d7c7/docs/4-Avaliacao_comunicabilidade/TCLE%20_comunicabilidade/Usu%C3%A1rio%203.jpg)
 
 [Usuário 4](https://github.com/ennoile/ihc/blob/75bacb7cab60daa680793bb89f6715253f46d7c7/docs/4-Avaliacao_comunicabilidade/TCLE%20_comunicabilidade/Usu%C3%A1rio%204.jpg)
 
