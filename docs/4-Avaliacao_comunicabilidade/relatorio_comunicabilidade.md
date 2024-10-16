@@ -10,7 +10,13 @@
 - Levando em consideração a forma como os testes poderiam ser aplicados, a avaliação foi realizada em locais destinados a pesquisa, devido a variedade dos perfis solicitados, mais de um local foi usado para tal finalidade. Foi utilizado um aparelho celular, fornecido pelo avaliador, para capturar por meio de gravação de tela a navegação dos usuários e os movimentos dos toques na tela pelo sistema. Todos os participantes concordaram e assinaram um termo de consentimento, que especificava o propósito do teste e garantia que suas informações não seriam compartilhadas com terceiros. Foi aplicada uma entrevista pré-teste, e pós -teste, para identificar uma opinião geral sobre o aplicativo E-commerce “Shopee”. A análise foi realizada com a colaboração de 4 usuários que correspondiam ao perfil elaborado. As atividades efetuadas foram as seguintes:
 
 ## TCLE (Termo de Consetimento Livre e Esclarecido) dos usuários
-![Usuário 1]()
+[Usuário 1]()
+
+[Usuário 2](https://github.com/ennoile/ihc/blob/42337355319fb8c270675935cd5af00e3553b798/docs/4-Avaliacao_comunicabilidade/TCLE%20_comunicabilidade/Usu%C3%A1rio%202.jpg)
+
+[Usuário 3]()
+
+[Usuário 4]()
 
 ## Roteiro de Atividades
 
