@@ -1,4 +1,4 @@
-## Consolidação (ou Priorização)
+# CONSOLIDAÇÃO
 
 ### A tabela a seguir mostra a quantidade de heurísticas violadas:
 | Heurísticas violadas | Quantidade |
