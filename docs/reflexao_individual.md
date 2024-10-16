@@ -13,3 +13,5 @@
 - Durante a execução do trabalho foram aplicadas na prática as técnicas apontadas teoricamente nas aulas de IHC (Interação Humano-Computador) onde possibilitou melhor o entendimento das mesmas. O maior desafio foi o manuseamento da plataforma GitHub e com a realização do trabalho foi possível entender melhor como funcionava. Foi crucial a importância desta atividade para o melhor aprendizado dos tópicos da disciplina salientados até o momento, enalteceu a importância do trabalho em equipe e o uso de uma nova plataforma que com certeza será de suma importância para usos futuros. 
 
 - Nathalya
+  
+    A realização deste trabalho foi fundamental para meu enriquecimento em IHC(Interação Humano-computador). Embora tenha enfrentado algumas dificuldades,cada uma delas se tornou uma oportunidade para aprender.A colaboração com os colegas foi uma parte essencial desse processo. Juntos aplicamos as teorias aprendidas em sala de aula e assim conseguimos ver como elas se conectam na prática. No final, o trabalho proporcionou uma ótima experiência e muito aprendizado, que com certeza serão úteis no futuro.
