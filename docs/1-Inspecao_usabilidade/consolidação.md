@@ -1,15 +1,15 @@
 | Heurísticas violadas | Quantidade |
 |----------------------|------------|
-Visibilidade do estado do sistema (H1)	
-Correspondência entre o sistema e o mundo real (H2)	
-Controle e liberdade do usuário (H3)	
-Consistência e padronização (H4)	
-Prevenção de erros (H5)	
-Reconhecer ao invés de relembrar (H6)	
-Flexibilidade e eficiência de uso (H7)	
-Estética e design minimalista (H8)	
-Ajudar  os  usuários  a  reconhecerem,  diagnosticar  e corrigir erros (H9)	
-Ajuda e documentação (H10)	
+Visibilidade do status do sistema (H1)	| 3
+Compatibilidade do sistema e o mundo real (H2)	| 4
+Controle e liberdade do usuário (H3)	| 2
+Consistência e padrões (H4)	| 5
+Prevenção de erros (H5)	| 2
+Reconhecer ao invés de relembrar (H6)	| 3
+Flexibilidade e eficiência de uso (H7)	| 2
+Estética e design minimalista (H8)	|17
+Ajudar  os  usuários  a  reconhecer,  diagnosticar  e corrigir erros (H9)	| 0
+Ajuda e documentação (H10)	| 1
 
 
 
