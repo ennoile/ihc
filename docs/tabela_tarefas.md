@@ -29,6 +29,7 @@
 - T13 - Aplicação do teste de usabilidade
 - T14 - Escrita de objetivo e tarefas do usuário
 - T15 - Realização da Tabela de coleção
+- T16 - Finalização da Tabela de Tarefas
 
   
 |Tarefa x dia | 04/10 | 05/10 | 06/10 | 07/10 | 08/10 | 09/10 | 10/10 | 11/10 | 12/10 | 13/10 | 14/10 | 15/10 | 16/10 |
@@ -48,3 +49,4 @@
 |T13|-|-|-|-|-|-|-|-|-|-|A3:2|-|-|
 |T14|-|-|-|A5:1|-|-|-|-|-|-|-|-|-|
 |T15|-|-|-|-|-|-|-|-|-|-|-|-|A5:2|
+|T16|-|-|-|-|-|-|-|-|-|-|-|-|A4:2|
