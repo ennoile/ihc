@@ -64,7 +64,7 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema | Heurísticas Violadas | Severidade | Tela |
 |----|-----------------------|----------------------|------------|---------------|
-|  1 |       Tela com muitas informações desnecessárias                |   Design Estético e Minimalista                   |   2         |     1          |
-|  2 |    Os itens que aparecem como sugestão nem sempre são relevantes com a busca desejada                   |               Design Estético e Minimalista       |         2   |   2            |e
-|  3 |       "Frete grátis" não deixa explícito que está sendo aplicado ou não                |       Flexibilidade e Eficiência               |   2         |               |
-|  4 |                       |                      |            |               |
+|  1 |       Contém muitas informações desnecessárias.               |   Design Estético e Minimalista                   |   2         |     1          |
+|  2 |    Os itens que aparecem como sugestão nem sempre são relevantes com a busca desejada.                   |               Design Estético e Minimalista       |         2   |   2            |e
+|  3 |       "Frete grátis" não deixa explícito se está sendo aplicado ou não.               |       Flexibilidade e Eficiência               |   2         |           3    |
+|  4 |    Contém muitas informações que podem sobrecarregar o usuário.                  |    Design Estético e Minimalista                  |       2     |              4 |
