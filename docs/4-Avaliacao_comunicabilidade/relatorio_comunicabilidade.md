@@ -26,17 +26,8 @@
 
 3. Finalizando é requerido a efetuação da compra, onde os usuários devem achar o carrinho para concluírem a ação, selecionarem os produtos desejados, e aplicarem o cupom “frete grátis”, além de selecionarem o pagamento via pix, assim terminando o teste de comunicabilidade.
 
-- OBS: Foram elaboradas mais de 8 tarefas para a realização dos testes, entretanto, essas ações foram subdividads em 3 grandes tarefas para a aplicação do teste ser mais simples e organizado, tarefas essas que foram mencionadas nos três tópicos acima.
+- OBS: Foram elaboradas mais de **8 tarefas** para a realização dos testes, entretanto, essas ações foram subdividads em 3 grandes tarefas para a aplicação do teste ser mais simples e organizado, tarefas essas que foram mencionadas nos três tópicos acima.
 
-## Perfis dos Usuários
-
-| Perguntas | Respostas |
-|----------|------------|
-| Quem são os usuários do meu produto? | “Pessoas que estão à procura de uma forma rápida de fazer compras de forma online.” |
-| Quais são os desejos dos meus Usuários? | “Eles desejam poder navegar de forma eficiente para uma ativa execução do que é desejado de forma válida” |
-| Quais são as preferências dos meus usuários? | “Eles preferem que a interface gráfica seja simples e direta, além de segurança na compra e dos dados inseridos, para não possuir dificuldades, visto que informações pessoais irão ser adicionadas para a finalização da compra.” |
-| Como o sistema pode e deve ser usado? | “Ele deve ser usufruído para compras que irão, de certa forma, ajudar as necessidades do usuário, visto a diversa gama de produtos que o sistema tem a oferecer, de forma segura e eficaz” |
-| Qual a minha visão de design? | “O aplicativo Shopee foi criado para ser um E-commerce de sucesso visto as funcionalidades nele efetuadas, seu padrão de comunicabilidade é razoável, e é preciso desenvolverem mais a otimização do sistema e sua interface gráfica.” |
 
 ## Execução
 - O teste foi efetuado de forma eficiente pelo avaliador, que realizou entrevistas pré-teste e pós-teste, com cada participante de forma individual. Sob esse viés, nas entrevistas pré-teste, foi filtrado a faixa de idade dos usuários entre 18 e 40 anos, sendo todos adultos, e dois desses quatro participantes jovens-adultos, dito isto, todos os participantes afirmaram já conhecer o aplicativo de compras online Shopee, porém nem todos tiveram a oportunidade de realizar uma compra nesse sistema antes. Para a entrevista pós-teste, foi alcançado os seguintes resultados: 75% dos participantes sentiram muitas dificuldades em realizar praticamente todas as tarefas, por não estarem familiarizados com o sistema, levando em consideração que as tarefas exigidas eram de nível relativamente mediano. Foi mencionado sobre a interface gráfica ser bastante desregulada, o que prejudica a navegação dos usuários. Como sugestão foram relatadas: “O campo de interação poderia ser mais limpo visualmente”; “Os botões importantes deveriam ter um tamanho maior ou uma identificação diferente para a fácil localização”; “As informações devem ser mais claras e fáceis de interpretar, para que qualquer usuário possa usufruir do sistema”.
@@ -47,6 +38,7 @@
 
 - Tarefa 1 : Achar a barra de pesquisa e buscar pelo produto "mesa para computador.
 
+_Tabela 1 Resultados da Primeira Tarefa_
 | Participante | Resultado |
 |-----|-----------------------|
 |  P1 | Conseguiu  |
@@ -54,17 +46,23 @@
 |  P3 | Conseguiu |
 |  P4 | Conseguiu  |
 
+_Fonte: Elaborada pelo autor(2024)_
+
 - Tarefa 2 : Ir na opção "Filtro" e : Filtrar a faixa de  preço entre 100 e 200 reais; Selecionar avaliação 5 estrelas; Selecionar o produto  e Adiconar ao carrinho.
 
+_Tabela 2 Resultados da Segunda Tarefa_
 | Participante | Resultado |
 |-----|-----------------------|
 |  P1 | Conseguiu com bastante dificuldade  |
 |  P2 | Conseguiu com bastante difilculdade |
 |  P3 | Conseguiu |
 |  P4 | Conseguiu com pouco de dificuldade  |
+
+_Fonte: Elaborada pelo autor(2024)_
 
 - Tarefa 3 : Achar o carrinho para finalizar a compra, e selecionar : O produto desejado; Aplicar cupom "Frete Grátis"; Método de pagamento "Pix" e Finalizar a compra.
 
+_Tabela 3 Resultados da Segunda Tarefa_
 | Participante | Resultado |
 |-----|-----------------------|
 |  P1 | Conseguiu com bastante dificuldade  |
@@ -72,8 +70,11 @@
 |  P3 | Conseguiu |
 |  P4 | Conseguiu com pouco de dificuldade  |
 
+_Fonte: Elaborada pelo autor(2024)_
+
 ### Tabela de interpretação das etiquetas encontradas
 
+_Tabela 4 Resultados da interpretação das etiquetas_
 | Etiqueta | Participantes | Atividade |
 |----------|---------------|-----------|
 | "Cadê?" | 2 | Achar a opção “Filtro”. |
@@ -88,6 +89,23 @@
 | "Não, obrigado | 1 | Aplicar cupom “Frete Grátis”. |
 | "Epa! | 1 | Selecionar o produto e adicionar no carrinho. |
 | "Epa!" | 1 | Achar a opção “Filtro”. |
+
+_Fonte: Elaborada pelo autor(2024)_
+
+## Perfis dos Usuários
+
+- Com base nas etiquetas identificadas na execução do MAC e nas entrevistas realizadas, foi possível gerar o seguinte perfil semiótico:
+
+_Tabela 5 Elaboraçãodo do perfil semiótico_
+| Perguntas | Respostas |
+|----------|------------|
+| Quem são os usuários do meu produto? | “Pessoas que estão à procura de uma forma rápida de fazer compras de forma online.” |
+| Quais são os desejos dos meus Usuários? | “Eles desejam poder navegar de forma eficiente para uma ativa execução do que é desejado de forma válida” |
+| Quais são as preferências dos meus usuários? | “Eles preferem que a interface gráfica seja simples e direta, além de segurança na compra e dos dados inseridos, para não possuir dificuldades, visto que informações pessoais irão ser adicionadas para a finalização da compra.” |
+| Como o sistema pode e deve ser usado? | “Ele deve ser usufruído para compras que irão, de certa forma, ajudar as necessidades do usuário, visto a diversa gama de produtos que o sistema tem a oferecer, de forma segura e eficaz” |
+| Qual a minha visão de design? | “O aplicativo Shopee foi criado para ser um E-commerce de sucesso visto as funcionalidades nele efetuadas, seu padrão de comunicabilidade é razoável, e é preciso desenvolverem mais a otimização do sistema e sua interface gráfica.” |
+
+_Fonte: Elaborada pelo autor(2024)_
 
 ## Referências
 
