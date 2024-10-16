@@ -26,12 +26,15 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 ### Inspetor : A3
 
-| ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
+| ID | Descrição do problema | Heurísticas Violadas | Severidade | Tela |
 |----|-----------------------|----------------------|------------|---------------|
-|  1 |                       |                      |            |               |
-|  2 |                       |                      |            |               |
-|  3 |                       |                      |            |               |
-|  4 |                       |                      |            |               |
+|  1 | A homepage do aplicativo shopee possui muita poluição visual. | Desing estético e minimalista | 2 | 1 |
+|  2 | Após um item ser pesquisado há um excesso de opções de filtragem com diferentes padrões, o que pode ocasionar na confusão do usuário. | Desing estético e minimalista | 2 | 2 |
+|  3 | Após o usuário clicar em um produto ele é direcionado para outra tela, nela há uma mini tela onde uma live está ocorrendo e caso o usuário clique sem querer ou queira remover ele é direcionado para outra tela sem a vontade dele. | Prevenção de erros | 2 | 3 |
+|  4 |  Após o usuário acessar a tela onde há mais informações do produto há uma mini tela aberta onde uma live ocorre, e caso o usuário queira removê-la ele não tem essa opção. | Controle e liberdade do usuário | 2 | 3 |
+| 5 | Após o usuário selecionar um item para comprar ele tem acesso a tela de compra, onde uma série exite uma série de informações que pode dificulatr o processo de compra do usuário. | Desing estético e minimalista | 2 | 4 |
+
+
 
 ### Inspetor : A4
 
