@@ -16,13 +16,13 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema | Heurísticas Violadas | Severidade | Tela |
 |----|-----------------------|----------------------|------------|---------------|
-|  1 | Exemplos de imagem não tem um padrão, tem um produto sendo ofertado porém tem outros produtos.|Consistência e padrões |            |       1       |
-|  2 |Mais produto do que realmente é, tem varios produtos sendo exposto, dando a ilusão de estar comprando mais cosia porem quando vai pra compar é so um item pequeno|Estética e design minimalista|            |        1       |
-|  3 | Poluição visual, muita coisa, muita informação, propagandas, cupom etc.|Visibilidade do status do sistema|            |           1    |
-|  4 |Fiz uma busca de um produto porém veio um produto ligado ao produto que eu quero mas nao ao produto que eu quero qual | Compatibilidade do sistema com o mundo real / Ajuda e Documentação|            |       2        |
-|  5 |Tem uma exposição de um cupom de frete grátis porém fica meio incerto do que é. Tipo parece uma seção, e não um cupom.|Visibilidade do status do sistema  / Consistência e Padrões|            |       3        |
-|  6 |Tem uma parte que expõe mais produtos da mesma loja antes do final ai fica bagunçado| Consistência e padrões |            |       3        |
-|  7 |Fui fazer o pagamento, porém não fica claro a parte que é para cupom, a parte que é para endereço e parte de frete não tem contraste etc|Visibilidade do status do sistema / Consistência e padrões |            |            4   |
+|  1 | Exemplos de imagem não tem um padrão, tem um produto sendo ofertado porém tem outros produtos.|Consistência e padrões |      2      |       1       |
+|  2 |Mais produto do que realmente é, tem varios produtos sendo exposto, dando a ilusão de estar comprando mais cosia porem quando vai pra compar é so um item pequeno|Estética e design minimalista|      2      |        1       |
+|  3 | Poluição visual, muita coisa, muita informação, propagandas, cupom etc.|Visibilidade do status do sistema|       2     |           1    |
+|  4 |Fiz uma busca de um produto porém veio um produto ligado ao produto que eu quero mas nao ao produto que eu quero qual | Compatibilidade do sistema com o mundo real / Ajuda e Documentação|      3      |       2        |
+|  5 |Tem uma exposição de um cupom de frete grátis porém fica meio incerto do que é. Tipo parece uma seção, e não um cupom.|Visibilidade do status do sistema  / Consistência e Padrões|         2   |       3        |
+|  6 |Tem uma parte que expõe mais produtos da mesma loja antes do final ai fica bagunçado| Consistência e padrões |        3   |       3        |
+|  7 |Fui fazer o pagamento, porém não fica claro a parte que é para cupom, a parte que é para endereço e parte de frete não tem contraste etc|Visibilidade do status do sistema / Consistência e padrões |   2        |            4   |
 
 ### Inspetor : A3
 
