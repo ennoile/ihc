@@ -1,5 +1,5 @@
 # Avaliação de UX
-
+## Etapa 1 - Ferramenta Ligthouse
 <img src="imagens/1.png" alt="" />
 <p style="text-align: justify;">
 O painel de estatísticas de desempenho do site revela que ele apresenta um desempenho insatisfatório em áreas críticas, como o Largest Contentful Paint (LCP) e o Interaction to Next Paint (INP), com 88% e 38% dos carregamentos de página classificados como "Ruim", respectivamente. O Cumulative Layout Shift (CLS) também mostra resultados preocupantes, com 9% dos carregamentos classificados como "Ruim". Por outro lado, o site demonstra um desempenho aceitável em outras métricas, como o First Contentful Paint (FCP) e o Time to First Byte (TTFB), com 61% e 40% dos carregamentos classificados como "Boas". Em suma, a análise sugere que o site precisa de melhorias em áreas específicas para proporcionar uma experiência de usuário mais rápida e estável.
