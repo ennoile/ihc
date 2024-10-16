@@ -1,4 +1,16 @@
 # Tabela de Tarefas
+## Dados do projeto
+
+- Docente: Andrey Antonio de Oliveira Rodrigues
+
+**Equipe:**
++ A1. Emelly Cristina Grana de Oliveira - 22402234
++ A2. Ennoile Raquel Martins Ferreira - 22400268
++ A3. Heloíse Vitória Cruz Brito - 22400272
++ A4. Karen Vitória Rodrigues Pereira - 22402225
++ A5. Nathalya Christinne Sá Macêdo - 22450509
++ A6. Raíssa Martins de Oliveira - 22450064
+
 
 ### Tarefas
 

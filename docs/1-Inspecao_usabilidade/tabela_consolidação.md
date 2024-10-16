@@ -1,3 +1,6 @@
+## Consolidação (ou Priorização)
+
+### A tabela a seguir mostra a quantidade de heurísticas violadas:
 | Heurísticas violadas | Quantidade |
 |----------------------|------------|
 Visibilidade do status do sistema (H1)	| 3
@@ -11,7 +14,7 @@ Estética e design minimalista (H8)	|17
 Ajudar  os  usuários  a  reconhecer,  diagnosticar  e corrigir erros (H9)	| 0
 Ajuda e documentação (H10)	| 1
 
-
+### A tabela a seguir mostra a quantidade de problemas associados a cada severidade:
 
 | Severidade |	Quantidade |
 |------------|-------------|
