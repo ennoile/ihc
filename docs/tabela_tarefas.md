@@ -27,7 +27,7 @@
 - T11 - Elaboração do escopo do teste de usabilidade no GitHub
 - T12 - Planejamento do teste de usabilidade
 - T13 - Aplicação do teste de usabilidade
-- T14 - Escrita de onjetivo e tarefas do usuário
+- T14 - Escrita de objetivo e tarefas do usuário
 - T15 - Realização da Tabela de coleção
 
   
