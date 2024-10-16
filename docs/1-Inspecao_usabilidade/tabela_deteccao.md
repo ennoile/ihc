@@ -44,12 +44,12 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 ### Inspetor : A5
 
-| ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
+| ID | Descrição do problema | Heurísticas Violadas | Severidade | Tela |
 |----|-----------------------|----------------------|------------|---------------|
-|  1 |                       |                      |            |               |
-|  2 |                       |                      |            |               |
-|  3 |                       |                      |            |               |
-|  4 |                       |                      |            |               |
+|  1 |  Tela sobrecarregada de imagens                 |    Design Estético e minimalista                  |  2          |      1         |  
+|  2 | Apagar historico de pesquisa não está bem visível                      |   Controle e liberdade do usúario                   |  2          |     2          |
+|  3 |      A tela tem muitas informações com finalidades diferentes                 |         Design estetico e minimalista          |    3        |        3       |
+|  4 |       o ícone "26 moedas shoppe" não é muito visível para quem deseja usar esse desconto                |           Flexibilidade e eficiência de uso           |        3    |     4          |
 
 ### Inspetor : A6
 
