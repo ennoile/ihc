@@ -19,7 +19,7 @@
 - T3 - Teste de Comunicabilidade com usuários
 - T4 - Formatação do vídeo de Comunicabilidade
 - T5 - Realização do relatório do Teste de Comunicabilidade
-- T6 - Realização do relatótio de Inspeção de Usabilidade
+- T6 - Realização do relatório de Inspeção de Usabilidade
   
 |Tarefa x dia | 25/09 | 01/10 | 02/10 | 03/10 | 04/10 | 05/10 | 06/10 | 07/10 | 08/10 | 09/10 | 10/10 | 11/10 | 12/10 | 13/10 | 14/10 | 15/10 | 16/10 |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
