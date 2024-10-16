@@ -15,8 +15,8 @@ Ajuda e documentação (H10)	| 1
 
 | Severidade |	Quantidade |
 |------------|-------------|
-0 - Falso-Positivo	
-1 - Cosmético	
-2 - Leve	
-3 - Grande	
-4 - Catastrófico	
+0 - Falso-Positivo	| 0
+1 - Cosmético	| 0
+2 - Leve	| 26
+3 - Grande	| 8
+4 - Catastrófico | 0
