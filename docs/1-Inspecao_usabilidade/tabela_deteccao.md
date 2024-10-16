@@ -35,12 +35,18 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 ### Inspetor : A4
 
-| ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
+| ID | Descrição do problema | Heurísticas Violadas | Severidade | Tela |
 |----|-----------------------|----------------------|------------|---------------|
-|  1 |                       |                      |            |               |
-|  2 |                       |                      |            |               |
-|  3 |                       |                      |            |               |
-|  4 |                       |                      |            |               |
+|  1 | Muitas informações que podem ser consideradas desnecessárias na tela, o que causa poluição visual.                     |    Design estético e minimalista                  |      2      |       1        |
+|  2 |  Possui elementos semelhantes que pode causar erros na efetivação da tarefa                       | Consistência e padrões                     |     2       |         1      |
+|  3 |  Muitas informações que podem ser consideradas desnecessárias na tela, o que causa poluição visual.                      |   Design estético e minimalista                   |     3       |       2        |
+|  4 |  Ícones muito rasos de informação e que causam dificuldades na navegação                      |  Correspondência entre o sistema e o mundo real                   |     2       |       2        |
+|5|  Pode haver erros ao executar tarefas, visto que nessa página não possui a opção de refazer tarefa ou ação| Prevenção de erros | 2 | 2 |
+|6| Poluição visual. | Design estético e minimalista | 2 | 3 |
+|7| Ícones muito bagunçados. | Correspondência entre o sistema e o mundo real | 2 | 3 |
+|8| Poluição visual. | Design estético e minimalista | 2 | 4 |
+|9|  Ícones irregulares | Correspondência entre o sistema e o mundo real | 3 | 4 |
+|10|  Essa área deveria ser mais detalhada por ser a parte onde se colocar informações pessoais como endereço e número do cartão | Reconhecimento ao invés de memória | 3 | 4 |
 
 ### Inspetor : A5
 
