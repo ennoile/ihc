@@ -20,9 +20,13 @@
 
 ## Roteiro de Atividades
 
-1. Você é um usuário comum e deseja realizar uma compra pelo aplicativo “Shopee”. Inicialmente o avaliador pede que você pesquise um produto específico “mesa para computador”, e selecione a opção filtro e defina as seguintes especificações: faixa de preço entre R$ 100,00 e R$ 300,00 reais e avaliação 5 estrelas, por fim escolher a mercadoria e adicionar o produto ao carrinho de compras.
+1. Você é um usuário comum e deseja realizar uma compra pelo aplicativo “Shopee”. Inicialmente o avaliador pede que você ache a barra de pesquisa e busque um produto específico “mesa para computador”.
 
-2. Finalizando é requerido a efetuação da compra, onde os usuários devem achar o carrinho para concluírem a ação, selecionarem os produtos desejados, e aplicarem o cupom “frete grátis”, além de selecionarem o pagamento via pix, assim terminando o teste de comunicabilidade.
+2. Logo em seguida, é pedido que o usuário selecione a opção filtro e defina as seguintes especificações: faixa de preço entre R$ 100,00 e R$ 300,00 reais e avaliação 5 estrelas, por fim escolher a mercadoria e adicionar o produto ao carrinho de compras.
+
+3. Finalizando é requerido a efetuação da compra, onde os usuários devem achar o carrinho para concluírem a ação, selecionarem os produtos desejados, e aplicarem o cupom “frete grátis”, além de selecionarem o pagamento via pix, assim terminando o teste de comunicabilidade.
+
+- OBS: Foram elaboradas mais de 8 tarefas para a realização dos testes, entretanto, essas ações foram subdividads em 3 grandes tarefas para a aplicação do teste ser mais simples e organizado, tarefas essas que foram mencionadas nos três tópicos acima.
 
 ## Perfis dos Usuários
 
@@ -35,11 +39,11 @@
 | Qual a minha visão de design? | “O aplicativo Shopee foi criado para ser um E-commerce de sucesso visto as funcionalidades nele efetuadas, seu padrão de comunicabilidade é razoável, e é preciso desenvolverem mais a otimização do sistema e sua interface gráfica.” |
 
 ## Execução
-- O teste foi efetuado de forma eficiente pelo avaliador, que realizou entrevistas pré-teste e pós-teste, com cada participante de forma individual. Sob esse viés, na entrevista pré-teste, foi filtrado a faixa de idade dos usuários entre 18 e 40 anos, sendo todos adultos, e dois desses quatro participantes jovens-adultos, dito isto, todos os participantes afirmaram já conhecer o aplicativo de compras online Shopee, porém nem todos tiveram a oportunidade de realizar uma compra nesse sistema antes. Para a entrevista pós-teste, foi alcançado os seguintes resultados: 75% dos participantes sentiram muitas dificuldades em realizar praticamente todas as tarefas, por não estarem familiarizados com o sistema, levando em consideração que as tarefas exigidas eram de nível relativamente mediano. Foi mencionado sobre a interface gráfica ser bastante desregulada, o que prejudica a navegação dos usuários. Como sugestão foram relatadas: “O campo de interação poderia ser mais limpo visualmente”; “Os botões importantes deveriam ter um tamanho maior ou uma identificação diferente para a fácil localização”; “As informações devem ser mais claras e fáceis de interpretar, para que qualquer usuário possa usufruir do sistema”.
+- O teste foi efetuado de forma eficiente pelo avaliador, que realizou entrevistas pré-teste e pós-teste, com cada participante de forma individual. Sob esse viés, nas entrevistas pré-teste, foi filtrado a faixa de idade dos usuários entre 18 e 40 anos, sendo todos adultos, e dois desses quatro participantes jovens-adultos, dito isto, todos os participantes afirmaram já conhecer o aplicativo de compras online Shopee, porém nem todos tiveram a oportunidade de realizar uma compra nesse sistema antes. Para a entrevista pós-teste, foi alcançado os seguintes resultados: 75% dos participantes sentiram muitas dificuldades em realizar praticamente todas as tarefas, por não estarem familiarizados com o sistema, levando em consideração que as tarefas exigidas eram de nível relativamente mediano. Foi mencionado sobre a interface gráfica ser bastante desregulada, o que prejudica a navegação dos usuários. Como sugestão foram relatadas: “O campo de interação poderia ser mais limpo visualmente”; “Os botões importantes deveriam ter um tamanho maior ou uma identificação diferente para a fácil localização”; “As informações devem ser mais claras e fáceis de interpretar, para que qualquer usuário possa usufruir do sistema”.
 
 ## Resultados
 
-### Tabelas demonstrando o resultado de realização para cada tarefa
+### Tabelas demonstrando os resultados da realização de cada tarefa
 
 - Tarefa 1 : Achar a barra de pesquisa e buscar pelo produto "mesa para computador.
 
