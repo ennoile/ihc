@@ -12,10 +12,20 @@ Integrantes:
 
 Docente: Andrey Antonio de Oliveira Rodrigues
 
-Sistema: SHOPEE 
+- O objetivo do trabalho é avaliar um sistema online, o sistema escolhido para a realização dessa avaliação  foi o E-commerce: **Shopee.**
+- O corpo do trabalho foi divido para explorar algumas áreas que exploram tipos de avaliação diferentes com os usuários.
 
-(Inserir objetivos do trabalho e especificar cada processo de avaliação)
 
+## Sobre os processos de avaliação
+(especificar cada processo de avaliação)
+- **Inpenção de Usabilidade:**
+---
+- **Teste de Usabilidade:** O teste de usabilidade é essencial para avaliar a experiência do usuário em produtos e serviços, visando identificar problemas e otimizar a interação. O processo teve inicio com o planejamento, onde são definidos objetivos, público-alvo e cronograma. Em seguida, vem a preparação, que envolve a criação de cenários de teste e tarefas a serem realizadas pelos participantes. Após isso, realiza-se um teste piloto com um grupo pequeno, permitindo ajustes no protocolo. A execução envolve a condução dos testes com usuários reais, observando suas interações e coletando feedback. Por fim, a análise dos dados coletados ajuda a identificar padrões e oportunidades de melhoria, resultando em recomendações para aprimorar o design. Essas foram as etapas para a realização do teste de usabilidade.
+---
+- **Avaliação UX:**
+---
+- **Avaliação de Comunicabilidade:** O teste de comunicabilidade do MAC (Método de Avaliação da Comunicação) serve para avaliar a capacidade de comunicação de indivíduos, especialmente em contextos educacionais e terapêuticos. Ele identifica habilidades e dificuldades na expressão e compreensão da linguagem. 
+O processo envolve uma entrevista inicial, observação do paciente em situações de interação, aplicação de tarefas específicas, como descrever imagens, e avaliação das respostas quanto à clareza e coerência. Ao final, o avaliador estabelece o relatório mostrando os resultados da avaliação através de tabelas e etiquetagem das dificuldades encontradas, que geralemnete é feito a partir de vídeos do momento do teste.
 ## Tópicos do trabalho
 
 - [1 - Sistema](https://github.com/ennoile/ihc/tree/4e79d4e9f83e9c0827f7ea34de3dad7b0a9eaf17/docs/sistema)
