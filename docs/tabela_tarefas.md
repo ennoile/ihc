@@ -30,6 +30,22 @@
 - T14 - Escrita de objetivo e tarefas do usuário
 - T15 - Realização da Tabela de coleção
 - T16 - Finalização da Tabela de Tarefas
+- T17 - Criação do Git 
+- T18 - Criação do Escopo do trabalho versão 1.0
+- T19 - Divisão do grupo para seus respectivos tópicos
+- T20 - Planejamento das etapas de Avaliação UX 
+- T21 - Avaliação UX com a ferramenta Lighthouse
+- T22 - Criação DO Relatório da avaliação Com a ferramenta Lighthouse
+- T22 - Definição dos Usuários testes pra Avaliação UX
+- T23 - Download do Questionário Avaliação usando a Ferramenta User Experience Questionnaire(UEQ)
+- T24 - Download das planilhas de avaliações dos dados Disponibilizados pelo UEQ
+- T26 - Criação do Questionário com base no UEQ no Google Forms
+- T25 - Aplicação do questionário aos Usuários testes pelo Google Forms
+- T26 - Avaliação dos resultados do questionário pelo Google forms
+- T27 - Aplicação dos resultados do questionário no banco de dados das planilhas disponibilizadas pelo (UEQ)
+- T28 - Analise dos resultados obtidos pelas planilhas
+- T29 - Finalizando o relatório da avaliação UX tanto com a ferramenta ligthouse qunaod do questionário UEQ 
+- T30 - Commit dos Relatórios da Avaliação UX
 
   
 |Tarefa x dia | 04/10 | 05/10 | 06/10 | 07/10 | 08/10 | 09/10 | 10/10 | 11/10 | 12/10 | 13/10 | 14/10 | 15/10 | 16/10 |
@@ -50,3 +66,17 @@
 |T14|-|-|-|A5:1|-|-|-|-|-|-|-|-|-|
 |T15|-|-|-|-|-|-|-|-|-|-|-|-|A5:2|
 |T16|-|-|-|-|-|-|-|-|-|-|-|-|A4:2|
+|T17|A2:1|-|-|-|-|-|-|-|-|-|-|-|-|
+|T18|A1,A2,A3,A4,A5,A6:1|-|-|-|-|-|-|-|-|-|-|-|-|
+|T19|A1,A2,A3,A4,A5,A6:1|-|-|-|-|-|-|-|-|-|-|-|-|
+|T20|-|-|-|-|-|-|-|A2:3|-|-|-|-|-|
+|T21|-|-|-|A2:5|-|-|-|-|-|-|-|-|-|
+|T22|-|-|-|A2:3|-|-|-|-|-|-|-|-|-|
+|T23|-|-|-|-|-|-|-|-|-|A2:1|-|-|-|
+|T24|-|-|-|-|-|-|-|-|-|A2:1|-|-|-|
+|T25|-|-|-|-|-|-|-|-|-|-|A2:3|-|-|
+|T26|-|-|-|-|-|-|-|-|-|-|A2:3|-|-|
+|T27|-|-|-|-|-|-|-|-|-|-|-|A2:5|-|
+|T28|-|-|-|-|-|-|-|-|-|-|-|A2:4|-|
+|T29|-|-|-|-|-|-|-|-|-|-|-|A2:3|-|
+|T30||-|-|-|-|-|-|-|-|-|-|A2:3|-|
