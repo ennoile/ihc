@@ -17,7 +17,6 @@ Docente: Andrey Antonio de Oliveira Rodrigues
 
 
 ## Sobre os processos de avaliação
-(especificar cada processo de avaliação)
 - **Inpenção de Usabilidade:**
 ---
 - **Teste de Usabilidade:** O teste de usabilidade é essencial para avaliar a experiência do usuário em produtos e serviços, visando identificar problemas e otimizar a interação. O processo teve inicio com o planejamento, onde são definidos objetivos, público-alvo e cronograma. Em seguida, vem a preparação, que envolve a criação de cenários de teste e tarefas a serem realizadas pelos participantes. Após isso, realiza-se um teste piloto com um grupo pequeno, permitindo ajustes no protocolo. A execução envolve a condução dos testes com usuários reais, observando suas interações e coletando feedback. Por fim, a análise dos dados coletados ajuda a identificar padrões e oportunidades de melhoria, resultando em recomendações para aprimorar o design. Essas foram as etapas para a realização do teste de usabilidade.
