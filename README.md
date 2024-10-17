@@ -17,7 +17,8 @@ Docente: Andrey Antonio de Oliveira Rodrigues
 
 
 ## Sobre os processos de avaliação
-- **Inpenção de Usabilidade:**
+- **Inspenção de Usabilidade:**
+A inspeção de usabilidade é crucial para identificar e corrigir problemas antes do lançamento de um produto, garantindo uma melhor experiência do usuário. Durante o processo, criamos a tabela de coleção para eliminar discrepâncias repetidas, a tabela de consolidação para mostrar a quantidade de heurísticas violadas e a tabela de detecção para detalhar essas violações. Além disso, a tabela de discriminação classificou os problemas como defeitos reais ou falso-positivos. Essas ferramentas facilitaram uma análise clara e estruturada dos desafios identificados na interface.
 ---
 - **Teste de Usabilidade:** O teste de usabilidade é essencial para avaliar a experiência do usuário em produtos e serviços, visando identificar problemas e otimizar a interação. O processo teve inicio com o planejamento, onde são definidos objetivos, público-alvo e cronograma. Em seguida, vem a preparação, que envolve a criação de cenários de teste e tarefas a serem realizadas pelos participantes. Após isso, realiza-se um teste piloto com um grupo pequeno, permitindo ajustes no protocolo. A execução envolve a condução dos testes com usuários reais, observando suas interações e coletando feedback. Por fim, a análise dos dados coletados ajuda a identificar padrões e oportunidades de melhoria, resultando em recomendações para aprimorar o design. Essas foram as etapas para a realização do teste de usabilidade.
 ---
