@@ -29,10 +29,9 @@ A Avaliação de UX é crucial para o sucesso de um produto, como demonstrado em
 O processo envolve uma entrevista inicial, observação do paciente em situações de interação, aplicação de tarefas específicas, como descrever imagens, e avaliação das respostas quanto à clareza e coerência. Ao final, o avaliador estabelece o relatório mostrando os resultados da avaliação através de tabelas e etiquetagem das dificuldades encontradas, que geralemnete é feito a partir de vídeos do momento do teste.
 ## Tópicos do trabalho
 
-- [1 - Sistema](https://github.com/ennoile/ihc/tree/df7a633767024bfcbe149c6d1bc5b51b01b0f746/docs/1-Inspecao_usabilidade)
-- [2 - Tabela Tarefas](https://github.com/ennoile/ihc/blob/4e79d4e9f83e9c0827f7ea34de3dad7b0a9eaf17/docs/tabela_tarefas.md)
-- [3 - Inspenção de Usabilidade](https://github.com/ennoile/ihc/tree/4e79d4e9f83e9c0827f7ea34de3dad7b0a9eaf17/docs/1-Inspecao_usabilidade)
-- [4 - Teste de Usabilidade](https://github.com/ennoile/ihc/tree/4e79d4e9f83e9c0827f7ea34de3dad7b0a9eaf17/docs/2-Teste_usabilidade)
-- [5 - Avaliação UX](https://github.com/ennoile/ihc/tree/4e79d4e9f83e9c0827f7ea34de3dad7b0a9eaf17/docs/3-Avaliacao_ux)
-- [6 - Avaliação de Comunicabilidade](https://github.com/ennoile/ihc/tree/4e79d4e9f83e9c0827f7ea34de3dad7b0a9eaf17/docs/4-Avaliacao_comunicabilidade)
-- [7 - Reflexão Individual](https://github.com/ennoile/ihc/blob/4e79d4e9f83e9c0827f7ea34de3dad7b0a9eaf17/docs/reflexao_individual.md)
+- [1 - Sistema](https://github.com/ennoile/ihc/tree/main/docs/sistema)
+- [2 - Tabela Tarefas](https://github.com/ennoile/ihc/blob/main/docs/tabela_tarefas.md)
+- [3 - Inspenção de Usabilidade](https://github.com/ennoile/ihc/tree/main/docs/2-Teste_usabilidade)
+- [5 - Avaliação UX](https://github.com/ennoile/ihc/tree/main/docs/3-Avaliacao_ux)
+- [6 - Avaliação de Comunicabilidade](https://github.com/ennoile/ihc/tree/main/docs/4-Avaliacao_comunicabilidade)
+- [7 - Reflexão Individual](https://github.com/ennoile/ihc/blob/main/docs/reflexao_individual.md)
